@@ -1,9 +1,5 @@
 #Link url
 
 ```
-Local URL :http://localhost:8501/
-```
-orl
-```
-Network URL: http://192.168.18.12:8501
+https://submission-vyz7wwzw4gfe6kftvdamzx.streamlit.app/
 ```

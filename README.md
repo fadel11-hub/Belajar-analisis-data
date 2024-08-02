@@ -7,11 +7,11 @@ https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset/data
 
 ## Run steamlit app
 ```
-dashboard/streamlit run Proyek_analisis_Data.py
+Dashboard/streamlit run Proyek_analisis_Data.py
 ```
 or
 ```
-dashboard/python -m streamlit run Proyek_analisis_Data.py
+Dashboard/python -m streamlit run Proyek_analisis_Data.py
 ```
 
 

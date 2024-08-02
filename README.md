@@ -11,7 +11,7 @@ dashboard/streamlit run Proyek_analisis_Data.py
 ```
 or
 ```
-python -m streamlit run Proyek_analisis_Data.py
+dashboard/python -m streamlit run Proyek_analisis_Data.py
 ```
 
 
